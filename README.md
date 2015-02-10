@@ -1,2 +1,4 @@
-# Slapp-Pebble-Client
-The Pebble Slapp App
+# Slapp Pebble App
+The Pebble Slapp App.
+Needs the Android app to work.
+Happy Slapping!!
