@@ -7,7 +7,14 @@
     "longName": "Slapp",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/pebblogo-v1.png",
+                "menuIcon": true,
+                "name": "LOGO",
+                "type": "png"
+            }
+        ]
     },
     "shortName": "Slapp",
     "uuid": "05dd04b7-09e2-49d9-9433-08b7547a68a0",
