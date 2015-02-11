@@ -1,7 +1,3 @@
-/* Utility functions for my own development */
-
-//V 1.2.0
-
 #include <pebble.h>
 
 #ifndef CL_UTIL_H
