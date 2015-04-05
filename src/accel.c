@@ -11,8 +11,8 @@ static int latest_data[3 * NUM_SAMPLES];
 
 static void window_load(Window *window) 
 {
-	x_layer = cl_init_text_layer(GRect(0, 0, 144, 24), GColorBlack, GColorClear, false, 0, FONT_KEY_GOTHIC_18, GTextAlignmentLeft);
-	text_layer_set_text(x_layer, "Waiting for Android to Connect...");
+	x_layer = cl_init_text_layer(GRect(0, 0, 144, 24), GColorBlack, GColorClear, false, 0, FONT_KEY_GOTHIC_14, GTextAlignmentLeft);
+	text_layer_set_text(x_layer, " Waiting for Android Phone");
 	layer_add_child(window_get_root_layer(window), text_layer_get_layer(x_layer));
 
     

@@ -16,7 +16,12 @@
             }
         ]
     },
+    "sdkVersion": "3",
     "shortName": "Slapp",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
     "uuid": "05dd04b7-09e2-49d9-9433-08b7547a68a0",
     "versionCode": 1,
     "versionLabel": "1.0",
